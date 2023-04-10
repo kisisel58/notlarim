@@ -2,8 +2,6 @@
     "index": "Hoşgeldiniz!", 
     "changelog": "Güncelleme logları",
 
-    
-    
     "-- APIs": {
         "type": "separator",
         "title": "Notlar"
@@ -17,6 +15,7 @@
     "ss": {
         "title": "Çözdüğüm sorular"
     },
+    
     "contact": {
         "title": "Viki versiyon ↗",
         "type": "page",
