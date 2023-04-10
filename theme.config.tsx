@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
     docsRepositoryBase: 'https://github.com/heyturkiye58',
     useNextSeoProps() {
         return {
-            titleTemplate: '%s - HeyTürkiyenin Ders Notları',
+            titleTemplate: '%s - Notlarım',
             openGraph: {
                 type: 'website',
                 locale: 'en_IE',
@@ -42,8 +42,7 @@ const config: DocsThemeConfig = {
         component: <></>
     },
     i18n: [
-        { locale: 'tr', text: 'Türkçe (Ana dil)' },
-        { locale: 'en', text: 'English (Maybe we add)'}
+        { locale: 'tr', text: 'Türkçe (Ana dil)' }
     ]
 }
 
