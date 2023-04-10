@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
         link: 'https://github.com/heyturkiye58',
     },
     chat: {
-        link: 'https://discord.com/users/852606013126606908',
+        link: 'https://discord.com/users/852606013126606908'
     },
     docsRepositoryBase: 'https://github.com/heyturkiye58',
     useNextSeoProps() {
