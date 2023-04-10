@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
     chat: {
         link: 'https://discord.com/users/852606013126606908',
     },
-    docsRepositoryBase: 'https://github.com/heyturkiye58,
+    docsRepositoryBase: 'https://github.com/heyturkiye58',
     useNextSeoProps() {
         return {
             titleTemplate: '%s - HeyTürkiyenin Ders Notları',
