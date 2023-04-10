@@ -2,9 +2,9 @@
     "index": "Hoşgeldiniz!", 
     "changelog": "Güncelleme logları",
 
-    "-- notlar": {
+    "-- APIs": {
         "type": "separator",
-        "title": "notlar"
+        "title": "Notlar"
     },
     "dn": {
         "title": "Ders notları"
@@ -13,6 +13,6 @@
         "title": "Viki versiyon ↗",
         "type": "page",
         "href": "https://vikibrawl.miraheze.org/wiki/Notlarım",
-        "newWindow": true
+        "newWindow": false
     }
 }
