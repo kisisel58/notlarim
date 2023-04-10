@@ -1,0 +1,25 @@
+{    
+    "index": "Hoşgeldiniz!", 
+    "changelog": "Güncelleme logları",
+
+    "-- Notlar": {
+        "type": "separator",
+        "title": "Notlar"
+    },
+    "dn": {
+        "title": "Ders notları"
+    },
+    "dcp": {
+        "title": "Ders çalışma Programları"
+    },
+    "ss": {
+        "title": "Çözdüğüm sorular"
+    },
+    
+    "contact": {
+        "title": "Viki versiyon ↗",
+        "type": "page",
+        "href": "https://vikibrawl.miraheze.org/wiki/Notlarım",
+        "newWindow": true
+    }
+}
