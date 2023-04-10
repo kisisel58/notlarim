@@ -3,22 +3,22 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 import Head from 'next/head';
 
 const config: DocsThemeConfig = {
-    logo: <span style={{ fontSize: "24px" }}><strong>Void</strong>API</span>,
+    logo: <span style={{ fontSize: "24px" }}><strong>Ders</strong>NOTLARI</span>,
     project: {
-        link: 'https://github.com/voiddevsorg/voidapi-docs',
+        link: 'https://github.com/heyturkiye58',
     },
     chat: {
-        link: 'https://discord.gg/voiddevs'
+        link: 'https://discord.com/users/852606013126606908',
     },
-    docsRepositoryBase: 'https://github.com/voiddevsorg/voidapi-docs',
+    docsRepositoryBase: 'https://github.com/heyturkiye58,
     useNextSeoProps() {
         return {
-            titleTemplate: '%s - VoidAPI',
+            titleTemplate: '%s - HeyTürkiye\'nin Ders Notları',
             openGraph: {
                 type: 'website',
                 locale: 'en_IE',
-                url: 'https://docs.voidapi.rest',
-                site_name: 'VoidAPI',
+                url: 'https://notlarim-ht-kd.fg-w.ga/',
+                site_name: 'DersNOTLARI',
             }
         }
     },
@@ -42,7 +42,8 @@ const config: DocsThemeConfig = {
         component: <></>
     },
     i18n: [
-        { locale: 'en', text: 'English' }
+        { locale: 'tr', text: 'Türkçe (Ana dil)' },
+        { locale: 'en', text: 'English (Maybe we add)'}
     ]
 }
 
