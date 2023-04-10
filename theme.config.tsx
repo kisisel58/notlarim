@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
             titleTemplate: '%s - Notlarım',
             openGraph: {
                 type: 'website',
-                locale: 'en_IE',
+                locale: 'tr_IE',
                 url: 'https://notlarim-ht-kd.fg-w.ga/',
                 site_name: 'DersNOTLARI',
             }
