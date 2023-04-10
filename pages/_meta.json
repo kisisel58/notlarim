@@ -2,18 +2,13 @@
     "index": "Hoşgeldiniz!", 
     "changelog": "Güncelleme logları",
 
-    "-- Notlar": {
+    "-- notlar": {
         "type": "separator",
-        "title": "Notlar"
+        "title": "notlar"
     },
     "dn": {
         "title": "Ders notları"
     },
-       
-   
-    
-       
-    
     "contact": {
         "title": "Viki versiyon ↗",
         "type": "page",
